@@ -7,3 +7,5 @@ The test.py contains the scripts I as able to piece together. These are the poss
 
 Tests worked sparodically, not sure if its my terminal, a forgotten step, or the usual coding demons.
 
+Test4.py is teh script
+Test4tests.py are the test functions
